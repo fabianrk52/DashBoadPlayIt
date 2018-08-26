@@ -1,0 +1,19 @@
+.WrapperIncome{
+    height: 42%;
+    width: 24.3%;
+    color: white;
+    text-align: center;
+    box-shadow: -2px 0px 5px #181818
+}
+
+.Income{
+    display: block;
+    color: #d7a11f;
+    font-size: 20px;
+    margin-top: 16%;
+    margin-bottom: 1.4%;
+}
+
+.Inc{
+    font-size: 15px;
+}

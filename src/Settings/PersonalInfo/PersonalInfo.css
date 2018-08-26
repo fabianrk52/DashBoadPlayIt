@@ -1,0 +1,27 @@
+.ContacInfo{
+    width: 33%;
+}
+
+.WrapperPersonalInfo{
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 10%;
+    color: white;
+    font-size: 12px;
+}
+
+.WrapperPersonalInfo p{
+    font-size: 15px;
+}
+
+.WrapperPersonalInfo table{
+    text-align: left;
+    background-image: radial-gradient(circle at 100% 8% ,
+    #313131 0%, #000000 130%);
+    border-spacing: 15px;
+    font-size: 13px;
+}
+
+.WrapperPersonalInfo td{
+    width: 1%;
+}

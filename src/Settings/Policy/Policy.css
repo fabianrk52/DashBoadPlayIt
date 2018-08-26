@@ -1,0 +1,35 @@
+.WrapperPolicy{
+    color: white;
+    margin-left: 56%;
+    margin-top:-15%;
+    font-size:15px;
+}
+
+.WrapperPolicy span {
+    font-size: 13px;
+}
+
+.range{
+    width: 30%;
+    margin-left: 5%;
+}
+
+.price{
+    display: inline-block;
+    margin-top: 3%;
+}
+
+.prox{
+    display: inline-block;
+    margin-top: 3%;
+    margin-right: 2.3%;
+}
+
+.eventonly{
+    margin-left: 1%;
+}
+.checkboxEO {
+    margin-top: 4%;
+    margin-left: 3%;
+
+}

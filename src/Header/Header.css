@@ -1,0 +1,25 @@
+
+.HorizontalList{
+    margin-top: 2%;
+    list-style: none;
+}
+
+.HorizontalList a{
+    margin-left: 3.5%;
+    float: left;
+    text-decoration: none;
+    color: white;
+}
+
+.liHelp{
+    float: right;
+    margin-right: 8%;
+}
+
+img{
+    margin-top: -6%;
+}
+
+.yellow{
+    
+}

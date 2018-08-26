@@ -1,0 +1,35 @@
+
+.WrapperPaymentDetails{
+    margin-top: 11%;
+    margin-left: 56%;
+    color: white;
+    font-size: 12px;
+    width: 30%;
+}
+
+.WrapperPaymentDetails table{
+    text-align: left;
+    background-image: radial-gradient(circle at 0% 8% ,
+    #313131 0%, #000000 130%);
+    border-spacing: 15px;
+    font-size: 13px;
+}
+
+
+.details select{
+    background-color: black;
+    color:white;
+}
+
+.details{
+    width: 70%;
+    height: 20%;
+}
+
+.WrapperPaymentDetails p{
+    font-size: 15px;
+}
+
+.WrapperPaymentDetails td{
+    width: 1%;
+}

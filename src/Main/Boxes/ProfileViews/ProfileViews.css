@@ -1,0 +1,21 @@
+.WrapperProfileViews{
+    height: 70.5%;
+    width:9.4%;
+    color: white;
+    text-align: center;
+    margin-left: 3%;
+    margin-top:-40px;
+    box-shadow: 2px -1px 5px #181818
+    
+}
+
+.TextProfileViews{
+    font-size: 13px;
+    margin-top: 70%;
+    margin-bottom: 3%;
+}
+
+.TextProfileViews span{
+    display: block;
+    font-size: 18px;
+}

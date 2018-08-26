@@ -1,0 +1,19 @@
+.WrapperUpdates{
+    float: right;
+    color: white;
+    margin-top: -20.5%;
+    font-size: 15px;
+    margin-right: 10%;
+}
+
+.WrapperUpdates p{
+    margin-left: 9%;
+}
+
+.WrapperUpdates li{
+    padding-right: 16px;
+    font-size: 12px;
+    color: white;
+    padding-top: 18.5px;
+}
+

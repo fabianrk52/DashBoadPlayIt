@@ -1,0 +1,16 @@
+.WrapperMain{
+    margin-top: 3%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: radial-gradient(farthest-corner at 50% 8% ,
+    #313131 0%, #000000 44.5%)
+}
+
+.Name{
+    color: white;
+    margin-left: 11.5%;
+    margin-top: 5%;
+    font-size: 30px;
+
+}

@@ -1,0 +1,31 @@
+.WrapperNewPlayits td,th{
+    color:white;
+    text-align: left;
+    font-size: 10px;
+}
+
+.WrapperNewPlayits th{
+    font-size: 12px;
+}
+
+.WrapperNewPlayits table{
+    margin-top: -3%;
+    margin-left: -4%;
+    width:70%;
+    border-spacing: 15.5px;
+}
+
+.confirm{
+    color:#d7a11f;
+}
+
+.WrapperNewPlayits{
+    color: white;
+    margin-left: 10%;
+    border-spacing: 10px;
+}
+
+.WrapperNewPlayits p{
+    margin-left: -1%;
+    font-size: 14px;
+}

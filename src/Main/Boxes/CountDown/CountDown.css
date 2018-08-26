@@ -1,0 +1,49 @@
+.WrapperCountDown{
+    height: 42%;
+    width: 25%;
+    color: white;
+    box-shadow: -1px -2px 5px #181818
+}
+
+.lineCountDown{
+    width: 0px;
+    height: 18px;
+    background-color: white;
+    border: 1.2px solid white;
+    position: absolute;
+}
+
+.NumberCount{
+    margin-left: 5%;
+    margin-right: 3.3%;
+    font-size: 20px;
+}
+
+.Counter{
+    margin-left: 17%;
+    margin-top: 15%;
+}
+
+.divSubtitle{
+    margin-top: -5.5%;
+}
+
+.Subtitle{
+    font-size: 7px;
+    margin-left: 8.0%;
+}
+
+.divDetails{
+    margin-top: 9%;
+    font-size: 7px;
+}
+
+.date{
+    float: right;
+    margin-right: 17%;
+
+}
+
+.location{
+    margin-left: 21%;
+}

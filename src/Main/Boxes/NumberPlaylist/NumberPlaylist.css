@@ -1,0 +1,18 @@
+.WrapperNumberPlaylist{
+    height: 42%;
+    width: 17%;
+    color: white;
+    text-align: center;
+    box-shadow: -2px 0px 5px #181818
+}
+
+.WrapperNumberPlaylist span{
+    font-size: 18px;
+}
+
+.NumberPlaylist{
+    display:block;
+    margin-top: 25%;
+    margin-bottom: 3.3%;
+    font-size: 15px;
+}

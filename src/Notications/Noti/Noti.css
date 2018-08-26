@@ -1,0 +1,20 @@
+.WrapperNoti{
+    float: right;
+    color: white;
+    font-size: 15px;
+    margin-right: 18.5%;
+    margin-top: -5%;
+}
+
+.WrapperNoti p{
+    margin-left: 14%;
+}
+
+.WrapperNoti li{
+    margin-right: 30px;
+    font-size: 12px;
+    color: white;
+    margin-top: 18.5px;
+    
+}
+

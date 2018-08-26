@@ -1,0 +1,55 @@
+.WrapperFeedBack{
+    margin-top:0px;
+    height: 55%;
+    width: 25.0%;
+    color: white;
+    box-shadow: -1px -2px 5px #181818
+}
+
+.TitleFeedback{
+    display: block;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.LineFeedback{
+    margin-left: 5.6%;
+    width: 160px;
+    height: 0px;
+    border: 0.4px solid white;
+    position: absolute;
+}
+
+.categories{
+    font-size: 8px;
+    margin-top: 9%;
+    margin-left: 23%;
+}
+
+.categories span{
+    margin-left: 10%;
+}
+
+.numberfeedback{
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+.numberfeedback span{
+    margin-left: 10%;
+}
+
+.yellow{
+    color: #d7a11f;
+}
+
+.references{
+    font-size: 11px;
+    margin-left: 18%;
+    margin-top: 5%;
+}
+
+.references p{
+    margin-bottom: 1%;
+}

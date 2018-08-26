@@ -1,0 +1,14 @@
+.WrapperSelectDate{
+    top: 4%;
+    margin-left: 57.5%;
+    color: white;
+}
+
+.Date{
+    position: relative;
+    margin-left: 3%;
+}
+
+.DateYellow{
+    color: #d7a11f;
+}

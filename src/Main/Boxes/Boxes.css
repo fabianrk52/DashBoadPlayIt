@@ -1,0 +1,11 @@
+.WrapperBoxes{
+    display: flex;
+    width: 75%;
+    height:35.5%;
+    margin-left: 13%;
+    margin-top: 1%;
+    flex-flow: wrap;
+    background-image: radial-gradient(circle at 50% -85% ,
+    #424242 20%, #000000 75%);
+}
+

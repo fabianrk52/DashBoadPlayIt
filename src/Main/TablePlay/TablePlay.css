@@ -1,0 +1,39 @@
+td,th{
+    color:white;
+    text-align: left;
+}
+
+.TablePlays th{
+    font-size:16px;
+}
+
+.TablePlace{
+    width: 38%;
+}
+
+.TableTime{
+    width: 7%;
+}
+
+.TablePlays table{
+    border-spacing:15px;
+    margin-top: 2%;
+    margin-left: 14%;
+}
+
+.tdCanceled{
+    color:red;
+}
+
+.tdConfirm{
+    color:#d7a11f;
+}
+
+.TablePlays td button{
+    background-color: white;
+    font-size: 13px;
+    padding: 5% 2%;
+    border-radius: 15px;
+    width: 120%;
+
+}
